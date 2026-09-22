@@ -28,14 +28,11 @@ La linea de comandos y la compilacion desde el codigo fuente estan mas abajo.
 
 ## Lo que ves
 
-A fish-tank-sized terrarium viewed through the front glass: a grow-light bar on top, drainage
-gravel, a mesh barrier, a charcoal layer, soil and leaf litter below, a mossy driftwood branch
-and a stone. The grow light follows a day/night cycle and the whole tank dims when it is off.
-Condensation forms on the glass when the air is humid.
+Un terrario del tamano de una pecera visto a traves del cristal frontal: una barra de luz de cultivo en la parte superior, grava de drenaje, una barrera de malla, una capa de carbon vegetal, tierra y hojarasca debajo, una rama de madera cubierta de musgo y una piedra. La luz de cultivo sigue un ciclo de dia y noche y todo el terrario se oscurece cuando esta apagada. Se forma condensacion en el cristal cuando el aire esta humedo.
 
-**Plants** (each of 16 slots grows its own biomass; all are ordinary closed-terrarium plants):
-cushion and carpet moss, button/lemon-button ferns, fittonia (pink and red veins), pilea,
-peperomia, baby tears, selaginella, and creeping fig climbing the glass.
+
+**Plantas** (cada una de las 16 ranuras desarrolla su propia biomasa; todas son plantas normales de terrario cerrado): musgo de cojin y musgo tapizante, helechos button y lemon-button, fittonia (con nervaduras rosas y rojas), pilea, peperomia, lagrimas de bebe, selaginella y ficus rastrero trepando por el cristal.
+
 
 **Creatures:** springtails, isopods (grey, orange, dalmatian), fungus gnats and their larvae,
 aphids, a ladybug, a jumping spider, plus mold and small mushrooms.
