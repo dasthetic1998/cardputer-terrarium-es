@@ -55,9 +55,8 @@ Cada tecla se pulsa una sola vez.
 | `0` `0` |Nuevo terrario (pulsa dos veces en 3 s)|
 | `h` | Abrir / cerrar la ayuda del dispositivo (, / cambian entre sus 3 paginas) |
 
-- **Summary** — overall health, then a bar, trend arrow and 30-day sparkline per species.
-- **Journal** — the last 32 events: blooms, crashes and recoveries, first gnats, cold/warm/dry
-  spells, tremors, "radio storms", and what you did.
+* **Resumen** — salud general, seguida de una barra, una flecha de tendencia y una grafica de los ultimos 30 dias para cada especie.
+* **Diario** — los ultimos 32 eventos: floraciones, descensos y recuperaciones, primeros mosquitos, frio/calor/sequedad.  spells, tremors, "radio storms", and what you did.
 - **Signals** — every live sensor number, the entropy hash, free heap around each scan, and the
   firmware version + git commit on the last line (`terrarium v1.0.1 468d397`; `-dirty` if built from
   uncommitted changes), so you can tell which build is running.
