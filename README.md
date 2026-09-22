@@ -14,13 +14,13 @@ Un terrario de cristal sellado que vive en un [M5Stack Cardputer ADV](https://do
 
 Download from the [latest release](../../releases/latest). Pick one route:
 
-| Route | File | Mantiene tus otras aplicaciones? |
+| Ruta | Archivo | Mantiene tus otras aplicaciones? |
 |---|---|---|
 | **M5Launcher** (SD card) | `terrarium-adv-vX.Y.Z-app.bin` | Si |
 
 
-**M5Launcher:** copy `…-app.bin` to the SD card, put the card in the Cardputer, open the
-Launcher's SD browser and install it. The app is ~1.1 MB and fits the Launcher's app slot.
+**M5Launcher:** copia el archivo `…-app.bin` a la tarjeta SD, mete la tarjeta en el Cardputer, abre el explorador SD del Launcher e instalalo. La app ocupa unos 1,1 MB y cabe en el espacio para aplicaciones del Launcher.
+
 
 > installed apps**. Use the SD-card route if you want to keep them.
 
