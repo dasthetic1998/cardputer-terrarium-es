@@ -34,8 +34,7 @@ Un terrario del tamano de una pecera visto a traves del cristal frontal: una bar
 **Plantas** (cada una de las 16 ranuras desarrolla su propia biomasa; todas son plantas normales de terrario cerrado): musgo de cojin y musgo tapizante, helechos button y lemon-button, fittonia (con nervaduras rosas y rojas), pilea, peperomia, lagrimas de bebe, selaginella y ficus rastrero trepando por el cristal.
 
 
-**Creatures:** springtails, isopods (grey, orange, dalmatian), fungus gnats and their larvae,
-aphids, a ladybug, a jumping spider, plus mold and small mushrooms.
+**Criaturas** colémbolos, cochinillas (grises, naranjas y dalmata), mosquitos del sustrato y sus larvas, pulgones, una mariquita, una araña saltarina, ademas de moho y pequenas setas.
 
 ## Pages and keys
 
