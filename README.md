@@ -36,9 +36,9 @@ Un terrario del tamano de una pecera visto a traves del cristal frontal: una bar
 
 **Criaturas** colémbolos, cochinillas (grises, naranjas y dalmata), mosquitos del sustrato y sus larvas, pulgones, una mariquita, una araña saltarina, ademas de moho y pequenas setas.
 
-## Pages and keys
+## Paginas y teclas
 
-Every key is a single press.
+Cada tecla se pulsa una sola vez.
 
 | Key | Action |
 |---|---|
