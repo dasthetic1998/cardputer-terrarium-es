@@ -5,3 +5,4 @@ Un terrario de cristal sellado que vive en un M5Stack Cardputer ADV. Musgo, hele
 <img width="960" height="540" alt="se72e8ryutqh1" src="https://github.com/user-attachments/assets/3bf1f8e7-0ad1-4459-998f-40c7b58ddec0" /><img width="960" height="540" alt="oivzi8ryutqh1" src="https://github.com/user-attachments/assets/d2502008-c133-4e86-aa85-0d82c29f9a71" />
 
 
+
