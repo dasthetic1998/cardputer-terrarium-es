@@ -76,16 +76,11 @@ Un terrario sellado se cuida practicamente solo; tu solo tienes que intervenir d
 - **Agitalo, hablale, camina a su alrededor** El IMU, el microfono y el trafico WiFi/Bluetooth a tu alrededor anaden pequenos cambios aleatorios. Palabras del Diario: Tremor = lo has agitado, Radio storm = el trafico WiFi/BLE ha aumentado, cold / warm / dry spell = clima poco habitual, boomed / crashed / recovering = una poblacion ha aumentado, disminuido o se esta recuperando.
 - **f** acelera el tiempo (60x, 600x, 3600x) para que puedas ver pasar los dias.
 
-## How the sensors matter
+## Como influyen los sensores
 
-Randomness comes from everything the board can measure: IMU jerk, microphone level, battery,
-chip and IMU temperature, and the **number, signal strength and churn of nearby WiFi networks
-and Bluetooth devices**. All of it is reduced to a handful of normalised inputs plus a 32-bit
-entropy hash that stirs the simulation's RNG.
+La aleatoriedad viene de todo lo que la placa puede medir: movimientos bruscos del IMU, nivel del microfono, bateria, temperatura del chip y del IMU, y el **numero, intensidad de senal y cambios de las redes WiFi y dispositivos Bluetooth cercanos.** Todo se reduce a unas pocas entradas normalizadas, junto con un hash de entropia de 32 bits que mezcla el generador aleatorio de la simulacion.
 
-The tank is *sealed*, so the effect is deliberately weak and bounded: condensation buffers
-humidity, temperature swings a few degrees, and rare capped events (cold snap, warm spell, dry
-spell) stress a population without ever wiping it out.
+El terrario esta *sellado*, por lo que el efecto es deliberadamente debil y limitado: la condensacion regula la humedad, la temperatura varia unos pocos grados y los eventos poco frecuentes y limitados (ola de frio, periodo de calor, periodo de sequedad) afectan a una poblacion sin llegar a eliminarla.
 
 | Input | Effect |
 |---|---|
