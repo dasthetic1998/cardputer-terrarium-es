@@ -1,4 +1,4 @@
-# Terrarium for the Cardputer ADV
+# Terrarium for the Cardputer ADV ES
 
 Un terrario de cristal sellado que vive en un [M5Stack Cardputer ADV](https://docs.m5stack.com/en/core/Cardputer-Adv). Crecen musgos, helechos, fittonias y hiedra rastrera; los colémbolos y las cochinillas se encargan de limpiar; los mosquitos del sustrato y los pulgones causan problemas; y una araña saltarina y una mariquita ayudan a mantenerlos bajo control. Funciona en tiempo real en el dispositivo, y los propios sensores de la placa influyen en el ecosistema de forma sutil.
 
