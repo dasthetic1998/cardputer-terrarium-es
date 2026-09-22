@@ -71,10 +71,8 @@ Un terrario sellado se cuida practicamente solo; tu solo tienes que intervenir d
 - **Rocia** (m) cuando el Diario indique que ha habido un periodo seco o las plantas parezcan marchitas. No lo inundes: la tierra mojada tarda en secarse.
 - **Sembrar** (s) cuando las plantas se vean escasas.
 - **Podar** (p) cuando haya demasiadas; los restos se convierten en materia organica que alimenta a las cochinillas y los colembolos.
-- **Grow light** (`l`) brightens the tank for a few hours, even at night. The built-in light
-  already follows the day/night cycle, so you rarely need it.
-- **Pests** (aphids, fungus gnats) rise and fall on their own — the ladybug and spider catch up.
-  There is nothing to "win": no species can be wiped out.
+- **Luz de cultivo** (l) ilumina el terrario durante unas horas, incluso por la noche. La luz incorporada ya sigue el ciclo dia/noche, asi que rara vez la necesitaras.
+- **Plagas** (pulgones, mosquitos del sustrato) aumentan y disminuyen por si solas; la mariquita y la arana se encargan de mantenerlas bajo control. No hay nada que "ganar": ninguna especie puede desaparecer por completo.
 - **Shake it, talk to it, walk around.** The IMU, microphone and the WiFi/Bluetooth traffic around
   you add tiny random nudges. Journal words: *Tremor* = you shook it, *Radio storm* = the
   WiFi/BLE air got busy, *cold / warm / dry spell* = rare weather, *boomed / crashed / recovering*
