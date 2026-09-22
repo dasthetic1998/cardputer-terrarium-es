@@ -10,26 +10,18 @@ Un terrario de cristal sellado que vive en un [M5Stack Cardputer ADV](https://do
 
 
 
-## Install (no tools needed)
+## Instalacion (sin necesidad de herramientas)
 
 Download from the [latest release](../../releases/latest). Pick one route:
 
-| Route | File | Keeps your other apps? |
+| Route | File | Mantiene tus otras aplicaciones? |
 |---|---|---|
-| **M5Burner** | `terrarium-adv-vX.Y.Z-factory.bin` | No, rewrites the whole flash |
-| **M5Launcher** (SD card) | `terrarium-adv-vX.Y.Z-app.bin` | Yes |
-| **Browser** ([web installer](https://shrimpapplepro.github.io/cardputer-terrarium/)) | none, it fetches `factory.bin` | No, rewrites the whole flash |
+| **M5Launcher** (SD card) | `terrarium-adv-vX.Y.Z-app.bin` | Si |
 
-**M5Burner:** open M5Burner, choose the Cardputer's serial port, pick the downloaded
-`…-factory.bin` as a custom/local firmware and burn it **at address `0x0`** (it is a complete,
-merged image: bootloader + partition table + app). Then restart the board.
 
 **M5Launcher:** copy `…-app.bin` to the SD card, put the card in the Cardputer, open the
 Launcher's SD browser and install it. The app is ~1.1 MB and fits the Launcher's app slot.
 
-**Browser:** desktop Chrome, Edge or Opera, USB-C data cable, click *Install*. About a minute.
-
-> `factory.bin` (M5Burner and the web installer) **replaces an M5Launcher layout and its
 > installed apps**. Use the SD-card route if you want to keep them.
 
 Command line and building from source are further down.
