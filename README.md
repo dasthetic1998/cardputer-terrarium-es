@@ -1,9 +1,7 @@
 # Terrarium for the Cardputer ADV
 
-A sealed glass terrarium that lives on an [M5Stack Cardputer ADV](https://docs.m5stack.com/en/core/Cardputer-Adv).
-Moss, ferns, fittonia and creeping fig grow; springtails and isopods clean up; fungus gnats
-and aphids cause trouble; a jumping spider and a ladybug keep them in check. It runs in
-real time on the device, and the board's own sensors nudge it — gently.
+Un terrario de cristal sellado que vive en un [M5Stack Cardputer ADV](https://docs.m5stack.com/en/core/Cardputer-Adv). Crecen musgos, helechos, fittonias y hiedra rastrera; los colémbolos y las cochinillas se encargan de limpiar; los mosquitos del sustrato y los pulgones causan problemas; y una araña saltarina y una mariquita ayudan a mantenerlos bajo control. Funciona en tiempo real en el dispositivo, y los propios sensores de la placa influyen en el ecosistema de forma sutil.
+
 
 <img width="960" height="540" alt="0ey3o6ryutqh1" src="https://github.com/user-attachments/assets/25566aca-42c7-4281-adc3-5744b67a0d4e" /><img width="960" height="540" alt="oivzi8ryutqh1" src="https://github.com/user-attachments/assets/a8a93ac6-67f6-4bd1-8fdc-1f705206fb44" />
 <img width="960" height="540" alt="7nunf6ryutqh1" src="https://github.com/user-attachments/assets/d735252e-c0a7-436e-970f-7bac6c39bd01" />
