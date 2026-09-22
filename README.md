@@ -5,13 +5,12 @@ Moss, ferns, fittonia and creeping fig grow; springtails and isopods clean up; f
 and aphids cause trouble; a jumping spider and a ladybug keep them in check. It runs in
 real time on the device, and the board's own sensors nudge it — gently.
 
-| Day | Night |
-|---|---|
-| ![Tank by day](docs/tank-day.png) | ![Tank at night](docs/tank-night.png) |
+<img width="960" height="540" alt="0ey3o6ryutqh1" src="https://github.com/user-attachments/assets/25566aca-42c7-4281-adc3-5744b67a0d4e" /><img width="960" height="540" alt="oivzi8ryutqh1" src="https://github.com/user-attachments/assets/a8a93ac6-67f6-4bd1-8fdc-1f705206fb44" />
+<img width="960" height="540" alt="7nunf6ryutqh1" src="https://github.com/user-attachments/assets/d735252e-c0a7-436e-970f-7bac6c39bd01" />
+<img width="960" height="540" alt="701vl9ryutqh1" src="https://github.com/user-attachments/assets/67e5eb16-1df0-4a5d-ba18-ef42bdd95de8" />
+<img width="960" height="540" alt="se72e8ryutqh1" src="https://github.com/user-attachments/assets/e7be3126-7016-4ece-8651-82ab8fc86f48" />
 
-| Summary | Journal | Signals |
-|---|---|---|
-| ![Summary page](docs/summary.png) | ![Journal page](docs/journal.png) | ![Signals page](docs/signals.png) |
+
 
 ## Install (no tools needed)
 
