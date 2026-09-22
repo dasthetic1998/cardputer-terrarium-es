@@ -65,15 +65,12 @@ La pantalla baja el brillo despues de 30 s de inactividad y se apaga despues de 
 
 La ayuda del dispositivo (`h`) tiene el mismo texto, en letra pequena:
 
-A sealed tank mostly looks after itself; you only nudge it.
+Un terrario sellado se cuida practicamente solo; tu solo tienes que intervenir de vez en cuando.
 
-- **Watch.** *Tank* shows the plants, bugs, and day/night. *Summary* shows who is thriving: a bar,
-  a trend arrow and a 30-day line per species, plus an overall health %. *Journal* records what
-  happened and when.
-- **Mist** (`m`) when the Journal says a dry spell hit or the plants look droopy. Don't flood it —
-  wet soil is slow to dry.
-- **Seed** (`s`) when plants look sparse. **Prune** (`p`) when crowded; the cuttings become
-  detritus that feeds the isopods and springtails.
+- **Observa** Terrario muestra las plantas, los insectos y el ciclo dia/noche. Resumen muestra quien esta prosperando: una barra, una flecha de tendencia y una grafica de 30 dias por especie, ademas de un % de salud general. Diario registra lo que ha ocurrido y cuando.
+- **Rocia** (m) cuando el Diario indique que ha habido un periodo seco o las plantas parezcan marchitas. No lo inundes: la tierra mojada tarda en secarse.
+- **Sembrar** (s) cuando las plantas se vean escasas.
+- **Podar** (p) cuando haya demasiadas; los restos se convierten en materia organica que alimenta a las cochinillas y los colembolos.
 - **Grow light** (`l`) brightens the tank for a few hours, even at night. The built-in light
   already follows the day/night cycle, so you rarely need it.
 - **Pests** (aphids, fungus gnats) rise and fall on their own — the ladybug and spider catch up.
