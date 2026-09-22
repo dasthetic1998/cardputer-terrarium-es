@@ -86,8 +86,8 @@ El terrario esta *sellado*, por lo que el efecto es deliberadamente debil y limi
 |---|---|
 | Agitar / inclinar (IMU) | la tierra se remueve; las cochinillas y los colembolos se alteran |
 | Nivel de sonido | ligero parpadeo de luz, evaporacion mas rapida |
-| Chip temperature drift, low battery | slow temperature drift |
-| WiFi / BLE change between scans | small humidity jitter, spore/seed drift |
+| Variacion de la temperatura del chip, bateria baja | variacion lenta de la temperatura |
+| cambio en WiFi / BLE entre escaneos | pequenas variaciones de humedad, dispersion de esporas/semillas |
 | Everything, hashed | seeds the RNG, so events differ run to run |
 
 ## The ecology
