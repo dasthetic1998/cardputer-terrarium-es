@@ -36,7 +36,7 @@ Un terrario del tamano de una pecera visto a traves del cristal frontal: una bar
 
 **Criaturas** colémbolos, cochinillas (grises, naranjas y dalmata), mosquitos del sustrato y sus larvas, pulgones, una mariquita, una araña saltarina, ademas de moho y pequenas setas.
 
-## Paginas y teclas
+## Teclas y Acciones
 
 Cada tecla se pulsa una sola vez.
 
@@ -82,10 +82,10 @@ La aleatoriedad viene de todo lo que la placa puede medir: movimientos bruscos d
 
 El terrario esta *sellado*, por lo que el efecto es deliberadamente debil y limitado: la condensacion regula la humedad, la temperatura varia unos pocos grados y los eventos poco frecuentes y limitados (ola de frio, periodo de calor, periodo de sequedad) afectan a una poblacion sin llegar a eliminarla.
 
-| Input | Effect |
+| Entrada | Efecto |
 |---|---|
-| Shake / tilt (IMU) | soil stirs; isopods and springtails are disturbed |
-| Sound level | slight light flicker, faster evaporation |
+| Agitar / inclinar (IMU) | la tierra se remueve; las cochinillas y los colembolos se alteran |
+| Nivel de sonido | slight light flicker, faster evaporation |
 | Chip temperature drift, low battery | slow temperature drift |
 | WiFi / BLE change between scans | small humidity jitter, spore/seed drift |
 | Everything, hashed | seeds the RNG, so events differ run to run |
