@@ -42,8 +42,8 @@ Cada tecla se pulsa una sola vez.
 
 | Key | Action |
 |---|---|
-| `1` `2` `3` `4` | Tank / Summary / Journal / Signals |
-| `,` `/` | Previous / next page |
+| `1` `2` `3` `4` | Terrario / Resumen / Diario / Senales |
+| `,` `/` | Pagina anterior / siguiente |
 | `;` `.` | Scroll the Journal |
 | `m` | Mist (humidity and soil moisture up) |
 | `s` | Plant a seed in the weakest slot |
