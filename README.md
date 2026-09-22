@@ -22,11 +22,11 @@ Download from the [latest release](../../releases/latest). Pick one route:
 **M5Launcher:** copia el archivo `…-app.bin` a la tarjeta SD, mete la tarjeta en el Cardputer, abre el explorador SD del Launcher e instalalo. La app ocupa unos 1,1 MB y cabe en el espacio para aplicaciones del Launcher.
 
 
-> installed apps**. Use the SD-card route if you want to keep them.
+> aplicaciones instaladas**. Usa la opcion de la tarjeta SD si quieres conservarlas.
 
-Command line and building from source are further down.
+La linea de comandos y la compilacion desde el codigo fuente estan mas abajo.
 
-## What you see
+## Lo que ves
 
 A fish-tank-sized terrarium viewed through the front glass: a grow-light bar on top, drainage
 gravel, a mesh barrier, a charcoal layer, soil and leaf litter below, a mossy driftwood branch
