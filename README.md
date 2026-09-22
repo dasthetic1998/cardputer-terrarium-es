@@ -52,8 +52,8 @@ Cada tecla se pulsa una sola vez.
 | `r` | Escanear el aire (WiFi + BLE) ahora |
 | `f` | Velocidad de simulacion: 1x → 60x → 600x → 3600x |
 | `[` `]` | Ajustar el reloj −/+ 1 hora (no hay RTC) |
-| `0` `0` | New tank (press twice within 3 s) |
-| `h` | Open / close the on-device help (`,` `/` flip its 3 pages) |
+| `0` `0` |Nuevo terrario (pulsa dos veces en 3 s)|
+| `h` | Abrir / cerrar la ayuda del dispositivo (, / cambian entre sus 3 paginas) |
 
 - **Summary** — overall health, then a bar, trend arrow and 30-day sparkline per species.
 - **Journal** — the last 32 events: blooms, crashes and recoveries, first gnats, cold/warm/dry
