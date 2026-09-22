@@ -40,7 +40,7 @@ Un terrario del tamano de una pecera visto a traves del cristal frontal: una bar
 
 Cada tecla se pulsa una sola vez.
 
-| Key | Action |
+| Teclas | Accion |
 |---|---|
 | `1` `2` `3` `4` | Terrario / Resumen / Diario / Senales |
 | `,` `/` | Pagina anterior / siguiente |
