@@ -56,21 +56,14 @@ Cada tecla se pulsa una sola vez.
 | `h` | Abrir / cerrar la ayuda del dispositivo (, / cambian entre sus 3 paginas) |
 
 * **Resumen** — salud general, seguida de una barra, una flecha de tendencia y una grafica de los ultimos 30 dias para cada especie.
-* **Diario** — los ultimos 32 eventos: floraciones, descensos y recuperaciones, primeros mosquitos, frio/calor/sequedad.  spells, tremors, "radio storms", and what you did.
-- **Signals** — every live sensor number, the entropy hash, free heap around each scan, and the
-  firmware version + git commit on the last line (`terrarium v1.0.1 468d397`; `-dirty` if built from
-  uncommitted changes), so you can tell which build is running.
+* **Diario** — los ultimos 32 eventos: floraciones, descensos y recuperaciones, primeros mosquitos, frio/calor/sequedad, hechizos, temblores, "tormentas de radio" y lo que hiciste.
+* **Señales** — todos los valores de los sensores en tiempo real, el hash de entropia, la memoria heap libre alrededor de cada escaneo y la version del firmware + commit de Git en la ultima linea (terrarium v1.0.1 468d397; -dirty si se ha compilado con cambios sin confirmar), para que puedas saber que version esta ejecutandose.
 
-The screen dims after 30 s idle and turns off after 3 min; the tank keeps living. The first key
-press after it turns off only wakes it.
+La pantalla baja el brillo despues de 30 s de inactividad y se apaga despues de 3 min; el terrario sigue funcionando. La primera pulsacion despues de apagarse solo sirve para despertarla.
 
-## How to play
+## Como jugar
 
-The on-device help (`h`) has the same text, in small type:
-
-| Keys | How to play | Sensors + journal |
-|---|---|---|
-| ![Help: keys](docs/help-keys.png) | ![Help: how to play](docs/help-play.png) | ![Help: sensors and journal](docs/help-sensors.png) |
+La ayuda del dispositivo (`h`) tiene el mismo texto, en letra pequena:
 
 A sealed tank mostly looks after itself; you only nudge it.
 
