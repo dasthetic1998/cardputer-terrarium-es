@@ -44,14 +44,14 @@ Cada tecla se pulsa una sola vez.
 |---|---|
 | `1` `2` `3` `4` | Terrario / Resumen / Diario / Senales |
 | `,` `/` | Pagina anterior / siguiente |
-| `;` `.` | Scroll the Journal |
-| `m` | Mist (humidity and soil moisture up) |
-| `s` | Plant a seed in the weakest slot |
-| `p` | Prune the tallest plant |
-| `l` | Grow light on for a few hours, even at night |
-| `r` | Scan the air (WiFi + BLE) now |
-| `f` | Sim speed: 1x → 60x → 600x → 3600x |
-| `[` `]` | Trim the clock −/+ 1 hour (there is no RTC) |
+| `;` `.` | Desplazar el diario |
+| `m` | Rociar (sube la humedad y la humedad del suelo) |
+| `s` | Planta una semilla en la ranura mas debil |
+| `p` | Poda la planta mas alta |
+| `l` | Luz de cultivo encendida durante unas horas, incluso por la noche |
+| `r` | Escanear el aire (WiFi + BLE) ahora |
+| `f` | Velocidad de simulacion: 1x → 60x → 600x → 3600x |
+| `[` `]` | Ajustar el reloj −/+ 1 hora (no hay RTC) |
 | `0` `0` | New tank (press twice within 3 s) |
 | `h` | Open / close the on-device help (`,` `/` flip its 3 pages) |
 
