@@ -12,7 +12,7 @@ Un terrario de cristal sellado que vive en un [M5Stack Cardputer ADV](https://do
 
 ## Instalacion (sin necesidad de herramientas)
 
-Download from the [latest release](../../releases/latest). Pick one route:
+Descargar desde el [latest release](../../releases/latest) :
 
 | Ruta | Archivo | Mantiene tus otras aplicaciones? |
 |---|---|---|
