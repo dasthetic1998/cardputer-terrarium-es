@@ -73,11 +73,8 @@ Un terrario sellado se cuida practicamente solo; tu solo tienes que intervenir d
 - **Podar** (p) cuando haya demasiadas; los restos se convierten en materia organica que alimenta a las cochinillas y los colembolos.
 - **Luz de cultivo** (l) ilumina el terrario durante unas horas, incluso por la noche. La luz incorporada ya sigue el ciclo dia/noche, asi que rara vez la necesitaras.
 - **Plagas** (pulgones, mosquitos del sustrato) aumentan y disminuyen por si solas; la mariquita y la arana se encargan de mantenerlas bajo control. No hay nada que "ganar": ninguna especie puede desaparecer por completo.
-- **Shake it, talk to it, walk around.** The IMU, microphone and the WiFi/Bluetooth traffic around
-  you add tiny random nudges. Journal words: *Tremor* = you shook it, *Radio storm* = the
-  WiFi/BLE air got busy, *cold / warm / dry spell* = rare weather, *boomed / crashed / recovering*
-  = a population swung.
-- **`f`** speeds time up (60x, 600x, 3600x) so you can watch days pass.
+- **Agitalo, hablale, camina a su alrededor** El IMU, el microfono y el trafico WiFi/Bluetooth a tu alrededor anaden pequenos cambios aleatorios. Palabras del Diario: Tremor = lo has agitado, Radio storm = el trafico WiFi/BLE ha aumentado, cold / warm / dry spell = clima poco habitual, boomed / crashed / recovering = una poblacion ha aumentado, disminuido o se esta recuperando.
+- **f** acelera el tiempo (60x, 600x, 3600x) para que puedas ver pasar los dias.
 
 ## How the sensors matter
 
